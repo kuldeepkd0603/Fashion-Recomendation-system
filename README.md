@@ -11,7 +11,8 @@ Welcome to the Fashion Recommendation System! This project leverages Streamlit t
 
 ## Project Structure
 
-![image](https://github.com/user-attachments/assets/edab9868-afe9-4b18-9e50-c71ff202e0a5)
+![image](https://github.com/user-attachments/assets/58c7ccc8-cfc2-48b5-876e-e354972368f6)
+
 
 ![image](https://github.com/user-attachments/assets/34becec5-3a8c-491d-a72a-187c8b7489e3)
 
